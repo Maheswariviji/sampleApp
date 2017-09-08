@@ -1,0 +1,26 @@
+{
+  "name": "sampleapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maheswariviji/sampleApp.git"
+  },
+  "author": "maheswari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maheswariviji/sampleApp/issues"
+  },
+  "homepage": "https://github.com/Maheswariviji/sampleApp#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "socket.io": "^2.0.3"
+  }
+}
